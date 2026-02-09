@@ -1,4 +1,4 @@
-window_days: 7
+window_days: 14
 openalex:
   enabled: false
   mailto: "you@example.com"
