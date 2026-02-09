@@ -14,4 +14,4 @@ decay_days:
   medium: 21
   slow: 90
 whitelist_authors: []
-whitelist_venues: ["Nature", "Science", "Advanced Materials", "Joule", "ACS Nano", "Carbohydrate Polymers", "Advanced Functional Materials", "Chemical Engineering Journal", "Nature Communications", "Science Advances", "Materials Horizons", "Materials Today", "Small", "Matter", "Advanced Energy Materials", " Advanced Fiber Materials"]
+whitelist_venues: ["Nature", "Science", "Advanced Materials", "Joule", "ACS Nano", "Carbohydrate Polymers", "Advanced Functional Materials", "Chemical Engineering Journal", "Nature Communications", "Science Advances", "Materials Horizons", "Materials Today", "Small", "Matter", "Advanced Energy Materials", "Advanced Fiber Materials"]
