@@ -1,17 +1,17 @@
 weights:
-  similarity: 0.45
-  recency: 0.15
-  citations: 0.15
-  altmetric: 0.10
-  journal_quality: 0.04
-  author_bonus: 0.02
-  venue_bonus: 0.04
+  similarity: 0.65
+  recency: 0.10
+  citations: 0.05
+  altmetric: 0.05
+  journal_quality: 0.05
+  author_bonus: 0.05
+  venue_bonus: 0.10
 thresholds:
-  must_read: 0.75
-  consider: 0.5
+  must_read: 0.80
+  consider: 0.55
 decay_days:
-  fast: 3
-  medium: 7
-  slow: 30
+  fast: 14
+  medium: 21
+  slow: 90
 whitelist_authors: []
-whitelist_venues: []
+whitelist_venues: ["Nature", "Science", "Advanced Materials", "Joule", "ACS Nano", "Carbohydrate Polymers", "Advanced Functional Materials", "Chemical Engineering Journal", "Nature Communications", "Science Advances", "Materials Horizons", "Materials Today", "Small", "Matter", "Advanced Energy Materials", " Advanced Fiber Materials"]
